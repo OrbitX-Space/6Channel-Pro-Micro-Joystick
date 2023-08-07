@@ -5,7 +5,8 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-MIT-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
 
 **No installation required**, just upload the sketch into your Pro Micro.
-***This SKETCH ONLY WORKS for LEONARDO BASED Arduino (ATmega32u4 microcontroller).***
+
+***This SKETCH WORKS ONLY for LEONARDO BASED Arduino (ATmega32u4 microcontroller).***
 
 ***
 
