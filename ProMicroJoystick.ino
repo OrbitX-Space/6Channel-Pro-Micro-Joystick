@@ -8,7 +8,7 @@ const int buttonPin4 = 5;
 const int buttonPin5 = 6;
 const int buttonPin6 = 7;
 
-// Define the number of analog values (usually 10-bit resolution for Arduino Pro Micro)
+
 const int analogMax = 1023;
 
 // Define joystick X-axis range (-32767 to 32767)
