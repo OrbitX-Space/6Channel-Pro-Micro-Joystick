@@ -6,7 +6,7 @@
 
 **No installation required**, just upload the sketch into your Pro Micro.
 
-***This SKETCH WORKS ONLY for LEONARDO BASED Arduino boards. (ATmega32u4 microcontroller)***
+***This SKETCH WORKS ONLY for Arduino LEONARDO or Arduino boards with ATmega32u4 microcontroller***
 
 ***
 
