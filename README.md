@@ -8,7 +8,7 @@
 
 **No installation required**, just upload the sketch into your Pro Micro.
 
-**This SKETCH WORKS ONLY for Arduino LEONARDO or any board with ATmegaxxu4 microcontroller which has native USB support & arduino bootloader installed in it. (just buy an arduino pro micro)**
+This SKETCH WORKS ONLY for Arduino LEONARDO or any board with ATmegaxxu4 microcontroller which has native USB support & arduino bootloader installed in it. (just buy an arduino pro micro)
 
 ***
 
